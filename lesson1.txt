@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The diff command shows only those lines which are different in the documents
+    which reduces our effort and makes it more easier to find bugs rather than 
+    when looking at whole documents at a time.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    A programmes can identify the changes which work and the changes which do not
+    work and learn from them to make his future programmes more effecient.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Some of the pros are that no irrevelant versions are saved where code is 
+    incomplete and wouldn't compile. You can commit according to future needs.
+    Some of the cons are that one might forget to commit regularly which may lead 
+    to a lot of work being wasted. We may have to some work again if we think it 
+    was better than the current version.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think when working on a coding project, git's approach is more relevant as
+    all the files are more likely interlinked to each other in some way while 
+    Google Doc's approach is relevant when working on some other projects like a 
+    novel where we don't need to save every chapter every time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log gives us the history of the commits that have been done while only
+    showing us the summary. git diff on the other hand, shows us detailed 
+    difference between the current version and the last version used.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Making changes when you know that a working and stable version of the 
+    programme has been committed before will give you the freedom to perform  
+    changes which you otherwise would have hesitated to make.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would use Git for my college projects. It really feels necessary now.
